@@ -28,6 +28,7 @@
 
  ## Generated code
  (View , Interactor , Clean Model , Presenter , Protocols , also storyboard if you using it)
+ 
 ![Screen Shot 2019-11-21 at 10 50 10 AM](https://user-images.githubusercontent.com/42733811/69322387-6e412680-0c4d-11ea-94ed-0d44cdc70d25.png)
 
 ![Auther](https://user-images.githubusercontent.com/42733811/69323275-186d7e00-0c4f-11ea-977c-e064c12cd574.gif)
