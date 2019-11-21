@@ -11,7 +11,7 @@
   2. Copy Module VIPER.xctemplate
   3. Go to Finder
   4. Press CMD + Shift + G
-  5. Copy (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File\   Templates/Source)
+  5. Copy (/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File\Templates/Source)
   6. Go to file Templates Folder
   7. Go to Source Folder
   8. paste Module VIPER.xctemplate
