@@ -14,7 +14,4 @@ class ___VARIABLE_viperModuleName___ViewController: UIViewController, ___VARIABL
         presenter.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    func showIndicator() {
-        print("showIndicator")
-    }
 }
